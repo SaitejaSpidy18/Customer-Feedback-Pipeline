@@ -1,0 +1,4 @@
+﻿Flask==3.0.0
+kafka-python==2.0.2
+pymysql==1.1.0
+python-dotenv==1.0.0
